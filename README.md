@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-good-looking-man-using-laptop-work_97632-4516.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabareeshwaran-sureshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sabareeshwaran-sureshkumar" /> </p>
+-🔭 I’m currently pursuing Btech.Artificial Intelligence & Data Science
 
 - 🌱 I’m currently learning **Data Science,Machine learning**
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **sabareeshjr12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tDc7-TeukSWtghKN4i3tH704iBwpY0vO?usp=sharing](https://drive.google.com/drive/folders/1tDc7-TeukSWtghKN4i3tH704iBwpY0vO?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/1tDc7-TeukSWtghKN4i3tH704iBwpY0vO?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
