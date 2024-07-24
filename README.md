@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sabareeshwaran S</h1>
 <h3 align="center">A passionate Data Scientist and Web Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-boy-work-from-home-with-laptop-png-image_5424728.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabareeshwaran-sureshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sabareeshwaran-sureshkumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabareeshwaran-sureshkumar" alt="sabareeshwaran-sureshkumar" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science,Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://sabareeshwaran.netlify.app/](https://sabareeshwaran.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://sabareeshwaran.netlify.app/)
 
 - 💬 Ask me about **Frontend development,Data Science & Analytics**
 
