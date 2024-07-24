@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabareeshwaran S</h1>
+<div align="center"> <img src="banner-3.png"> </div>
 <h3 align="center">A passionate Data Scientist and Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-good-looking-man-using-laptop-work_97632-4516.jpg">
 
