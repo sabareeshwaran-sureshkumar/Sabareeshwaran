@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabareeshwaran S</h1>
 <h3 align="center">A passionate Data Scientist and Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5LnkvAhWScOZkfHI-oJOuFWmIuzG1W0WhQ&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvY4iLnDYqsoGy1cedohorAfoB3L_qgotLw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabareeshwaran-sureshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sabareeshwaran-sureshkumar" /> </p>
 
